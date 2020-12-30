@@ -17,14 +17,14 @@ import {
     <Row className="home-left-main">
        <Col xl={12} className="home-left-main-col">
          <h1 className="first-line">
-           Hello! 
+           Welcome! 
          </h1>
          <h2 className="second_line">
-           I am <strong>motasim foad</strong>
+           I am <strong>Joshua Michalik</strong>
          </h2>
          <h3>
          <ReactTypingEffect
-           text="Product & Project Manager || Software Engineer ... " //text=["Hello.", "World!"]
+           text="Technical Instructor &amp; Software Engineer ... " 
            className="typical"
            speed="100"
            eraseDelay="500000"

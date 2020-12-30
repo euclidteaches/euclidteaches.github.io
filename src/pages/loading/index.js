@@ -13,11 +13,11 @@ class Loading extends Component {
 
   componentDidMount() {
      this.id = setTimeout(() => this.setState({ redirect: true }), 3000);
-    //--Motasim Foads Portfolio website Google analytics--
+    //--Joshua Michalik Portfolio website Google analytics--
     //--Replace with your own key !!
-    ReactGA.initialize("UA-154721739-1");
-    ReactGA.pageview('motasimfoad.com - Loading Screen');
-    //--Motasim Foads Portfolio website Google analytics--
+    ReactGA.initialize("UA-57401503-1");
+    ReactGA.pageview('darthyody.github.io/portfolio - Loading Screen');
+    //--Joshua Michalik Portfolio website Google analytics--
   }
     
   componentWillUnmount() {
@@ -30,9 +30,9 @@ class Loading extends Component {
       : <div>
          <Helmet>
                 <meta charSet="utf-8" />
-                <title>Motasim Foad</title>
-                <link rel="canonical" href="http://motasimfoad.com/" />
-                <meta name="description" content="Motasim Foad - Product Manager | Project Manager | Software Engineer" />
+                <title>Joshua Michalik</title>
+                <link rel="canonical" href="http://darthyody.github.io/portfolio/" />
+                <meta name="description" content="Joshua Michalik - Course Instructor &amp; Software Engineer" />
          </Helmet>
         <div className="Loading-header">
           <PuffLoader

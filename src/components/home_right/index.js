@@ -1,6 +1,6 @@
 import React from 'react';
 import '../home_right/style.css';
-import Foad from '../../assets/img/foad35.png';
+import Joshua from '../../assets/img/joshua.png';
 import {
   Container,
   Row,
@@ -15,7 +15,7 @@ function Home_Right() {
       <Row className="home-right-main">
         <Col xl={12}>
           <br />
-          <Image src={Foad} className="home-right-main-img" alt="Image of Motasim Foad"/>
+          <Image src={Joshua} className="home-right-main-img" alt="Image of Joshua Michalik"/>
         </Col>
         <Row className="home-right-footer" >
           <SocialIcons />

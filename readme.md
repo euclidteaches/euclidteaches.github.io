@@ -1,6 +1,6 @@
-##Motasim Foad Portfolio##
+## Joshua Michalik's portfolio
 
-Live preview : https://motasimfoad.com
+Live preview : https://darthyody.github.io/portfolio
 
 Technologies used : ReactJS, EmailJS, ParticleJS, Bootstrap
 

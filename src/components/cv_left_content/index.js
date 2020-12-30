@@ -13,7 +13,7 @@ import cv4 from '../../assets/img/cv4.png';
 import Lightbox from 'react-image-lightbox';
 import {Modal, Button} from 'react-bootstrap';
 import Projects from '../projects';
-import {Link, useHistory} from 'react-router-dom';
+import {Link} from 'react-router-dom';
 
 const images = [
   cv1,cv2,cv3,cv4
@@ -58,7 +58,7 @@ class CLC extends Component {
               <ColoredLine color="#FFC466" />
               <Fade top cascade>
               <div className="AboutBtnContainer">
-                <Link to={'./project'} className="left"><FontAwesomeIcon icon={faHdd} className="left_icon" /><br/><br/>Projects & Experiences</Link>
+                <Link to={'./project'} className="left"><FontAwesomeIcon icon={faHdd} className="left_icon" /><br/><br/>Projects & Clients</Link>
                 <div className="right"><FontAwesomeIcon onClick={() => this.setState({ show: true })} icon={faGithubSquare} className="right_icon"/><br/><br/>Git Projects</div>
               </div>
             </Fade>

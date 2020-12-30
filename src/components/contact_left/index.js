@@ -8,12 +8,11 @@ function Contact_Left() {
     <div>
            <Row className="Contact-text">
               <Col xl={12}>
-              <h1 className="p-heading1">Get In Touch</h1>
+              <h1 className="p-heading1">Contact</h1>
               <p className="p-heading2">
-              Hola <strong>Visitor !!</strong><br />
-              Thank you for bumping in. If you have any queries/ideas/projects, feel free to <strong>PING</strong> me.
-              I am always open for discussion. You can contact me via the Contact Form <strong>OR</strong> simply click on the social
-              media icon if you are more comfortable there.
+              Greetings!<br />
+              Thanks for reaching out. If you would like to discuss designing a course for your company, please contact me here.<br/>
+              You can send me a message via the Contact Form <strong>OR</strong> click on the social media icon if you prefer that means instead.
               </p>
               </Col>
            </Row>

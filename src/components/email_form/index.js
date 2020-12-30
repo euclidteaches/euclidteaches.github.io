@@ -42,7 +42,7 @@ class Email_Form extends React.Component {
     
     let templateParams = {
       from_name: email,
-      to_name: 'motasimfoad@gmail.com',
+      to_name: 'euclidteaches@gmail.com',
       subject: subject,
       message_html: message,
      }
@@ -52,10 +52,10 @@ class Email_Form extends React.Component {
      //=======================
 
      emailjs.send(
-      'gmail',
-      'template_OErNDyFu',
+      'service_ujy1prj',
+      'template_c56cr6a',
        templateParams,
-      'user_64rGh5RuHtigw7paS8NsX'
+      'user_nFJVXiq0XjGZ2pZ7Gj8Dx'
      )
      .then((result) => {
         this.handleShow();

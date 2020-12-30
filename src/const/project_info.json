@@ -2,140 +2,69 @@
     "data": [
       {
         "id" : 0,
-        "name": "IAT - Internet Addiction Test",
-        "tools": "React Hooks, Bootstraps, Hasura, GraphQL and Postgres",
-        "link": "https://iat.motasimfoad.com",
+        "name": "Starbucks",
+        "tools": "2-Day Course: Overview of Data Visualization",
+        "link": "https://starbucks.com/",
         "image": [
-            "https://motasimfoad.com/webasset/iat/1.png",
-            "https://motasimfoad.com/webasset/iat/2.png",
-	    "https://motasimfoad.com/webasset/iat/3.png",
-            "https://motasimfoad.com/webasset/iat/4.png",
-	    "https://motasimfoad.com/webasset/iat/5.png",
-            "https://motasimfoad.com/webasset/iat/6.png",
-            "https://motasimfoad.com/webasset/iat/7.png"
+          "https://i.ytimg.com/vi/U1FqBLQWb_c/maxresdefault.jpg"
         ]
       },
       {
         "id" : 1,
-        "name": "EMR - Electronic Medical Record",
-        "tools": "ReactJS, Bootstraps, GraphQL, GraphCool",
-        "link": "http://emr.motasimfoad.com",
+        "name": "Northwestern Mutual",
+        "tools": "4-Day Course: Data Analysis with Power BI",
+        "link": "https://www.northwesternmutual.com/",
         "image": [
-            "https://motasimfoad.com/webasset/emr/1.png",
-            "https://motasimfoad.com/webasset/emr/2.png",
-            "https://motasimfoad.com/webasset/emr/3.png",
-            "https://motasimfoad.com/webasset/emr/4.png",
-            "https://motasimfoad.com/webasset/emr/5.png"
+          "https://www.northwesternmutual.com/assets/images/corporate-careers-milwaukee-wi/hero.jpg",
+          "https://innovation.northwesternmutual.com/img/northwestern-mutual-data-science-institute/NM%20Logo.png"
         ]
       },
       {
         "id" : 2,
-        "name": "Symptom Based Disease Prediction System",
-        "tools": "HTML/CSS, apiMedic api",
-        "link": "https://emr.motasimfoad.com/prediction/",
+        "name": "Develop Intelligence - A Pluralsight Company",
+        "tools": "Curriculum Designer & Course Instructor",
+        "link": "https://www.developintelligence.com/",
         "image": [
-            "https://motasimfoad.com/webasset/pred/1.png",
-            "https://motasimfoad.com/webasset/pred/2.png",
-            "https://motasimfoad.com/webasset/pred/3.png"
+          "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.developintelligence.com%2F&psig=AOvVaw3e47x8l3-xyvWuYLjAqyET&ust=1609449917275000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjP-KfS9u0CFQAAAAAdAAAAABAD"
         ]
       },
       {
         "id" : 3,
-        "name": "Type Speed Testing App",
-        "tools": "React Hooks, Bootstraps, Firebase",
-        "link": "https://typespeed.motasimfoad.com",
+        "name": "Microsoft Certfied Instructor",
+        "tools": "Curriculum Designer & Course Instructor",
+        "link": "https://www.microsoft.com/",
         "image": [
-            "https://motasimfoad.com/webasset/typespeed/1.png",
- 	    "https://motasimfoad.com/webasset/typespeed/2.png",
-            "https://motasimfoad.com/webasset/typespeed/3.png",
-            "https://motasimfoad.com/webasset/typespeed/4.png",
-            "https://motasimfoad.com/webasset/typespeed/5.png"
+          "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youracclaim.com%2Forg%2Fmicrosoft-certification%2Fbadge%2Fmicrosoft-certified-trainer-2020-2021&psig=AOvVaw2qjtub1ufaPQFa1cjRrw-8&ust=1609449945578000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjV-7XS9u0CFQAAAAAdAAAAABAD"
         ]
       },
       {
         "id" : 4,
-        "name": "Classical Snake Game",
-        "tools": "React Hooks, Bootstraps, Firebase",
-        "link": "https://snake.motasimfoad.com",
+        "name": "RFMS - Systems for Success",
+        "tools": "Web & Mobile Apps, Angular, Javascript, .NET, C#, Git",
+        "link": "https://www.rfms.com/products-services/productivity-tools/",
         "image": [
-            "https://motasimfoad.com/webasset/snake/1.png",
-            "https://motasimfoad.com/webasset/snake/2.png"
+            "https://image.winudf.com/v2/image/Y29tLnJmbXMubW9lX3NjcmVlbl81XzE1Mzc4ODA5MzNfMDAw/screen-5.jpg?fakeurl=1&type=.jpg",
+            "https://store-images.s-microsoft.com/image/apps.23130.13976062571485358.b5a47840-1881-47a2-91ec-3be7d0e2b653.ce732c44-75e2-48ae-b397-c890ecde8649?w=672&h=378&q=80&mode=letterbox&background=%23FFE4E4E4&format=jpg"
         ]
       },
       {
         "id" : 5,
-        "name": "SiteTrax.io",
-        "tools": "ReactJS, Bootstraps, Laravel, OpenCV",
-        "link": "https://sitetrax.io/",
+        "name": "PMG Group",
+        "tools": "Web & Mobile Apps, React Native, Expo, Amazon Web Services",
+        "link": "https://www.preferredmarketinggroup.com/",
         "image": [
-            "https://motasimfoad.com/webasset/sitetrax/1.jpg",
-            "https://motasimfoad.com/webasset/sitetrax/2.jpg",
-            "https://motasimfoad.com/webasset/sitetrax/3.png",
-            "https://motasimfoad.com/webasset/sitetrax/4.png",
-            "https://motasimfoad.com/webasset/sitetrax/5.png",
-            "https://motasimfoad.com/webasset/sitetrax/6.png",
-            "https://motasimfoad.com/webasset/sitetrax/7.png"
+          "https://d1k8hez1mxkuxw.cloudfront.net/external_data/284567792-s10/186205503.jpeg"
         ]
       },
       {
         "id" : 6,
-        "name": "Bank Compare Bangladesh",
-        "tools": "ReactJS, Bootstraps",
-        "link": "https://bankcomparebd.com/",
+        "name": "Allium Software",
+        "tools": "Web Apps, PHP, Javascript, SQL",
+        "link": "https://bassresort.com/",
         "image": [
-            "https://motasimfoad.com/webasset/bc/0.png",
-            "https://motasimfoad.com/webasset/bc/1.png",
-            "https://motasimfoad.com/webasset/bc/2.png"
-        ]
-      },
-      {
-        "id" : 7,
-        "name": "UpBit",
-        "tools": "ReactJS, Bootstraps",
-        "link": "http://up-bt.com/",
-        "image": [
-            "https://motasimfoad.com/webasset/upbit/1.png",
-            "https://motasimfoad.com/webasset/upbit/2.png",
-            "https://motasimfoad.com/webasset/upbit/3.png"
-        ]
-      },
-      {
-        "id" : 8,
-        "name": "Lit App",
-        "tools": "React Native, Firebase",
-        "link": "https://www.lit-app.io/",
-        "image": [
-            "https://motasimfoad.com/webasset/lit/1.png",
-            "https://motasimfoad.com/webasset/lit/2.png",
-            "https://motasimfoad.com/webasset/lit/3.png"
-        ]
-      },
-      {
-        "id" : 9,
-        "name": "Comingoo",
-        "tools": "React Native, Firebase, Google Maps",
-        "link": false,
-        "image": [
-            "https://motasimfoad.com/webasset/comingoo/1.png",
-            "https://motasimfoad.com/webasset/comingoo/2.png",
-            "https://motasimfoad.com/webasset/comingoo/3.png",
-            "https://motasimfoad.com/webasset/comingoo/4.png",
-            "https://motasimfoad.com/webasset/comingoo/5.png"
-        ]
-      },
-      {
-        "id" : 10,
-        "name": "Sporshok",
-        "tools": "HTML/CSS, Google Form",
-        "link": false,
-        "image": [
-            "https://motasimfoad.com/webasset/sporshok/1.png",
-            "https://motasimfoad.com/webasset/sporshok/2.png",
-            "https://motasimfoad.com/webasset/sporshok/3.png",
-            "https://motasimfoad.com/webasset/sporshok/4.png"
+            "https://travel.com/media/reviews/photos/thumbnail/1500x500s/21/37/dc/bass-river-resort-84-1379097106.jpg"
         ]
       }
-      
     ]
   }
   

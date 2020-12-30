@@ -14,21 +14,21 @@ import Particles from 'react-particles-js';
 class Contact extends React.Component {
 
   componentDidMount() {
-    //--Motasim Foads Portfolio website Google analytics--
+    //--Joshua Michalik Portfolio website Google analytics--
     //--Replace with your own key !!
-    ReactGa.initialize("UA-154721739-1");
-    ReactGa.pageview('motasimfoad.com - Contact Screen');
+    ReactGa.initialize("UA-57401503-1");
+    ReactGa.pageview('darthyody.github.io/portfolio - Contact Screen');
   }
-   //--Motasim Foads Portfolio website Google analytics--
+   //--Joshua Michalik Portfolio website Google analytics--
 
   render() {
     return (
       <div>
         <Helmet>
                 <meta charSet="utf-8" />
-                <title>Contact | Motasim Foad</title>
-                <link rel="canonical" href="http://motasimfoad.com/contact" />
-                <meta name="description" content="Motasim Foad | Contact - Product Manager | Project Manager | Software Engineer" />
+                <title>Contact | Joshua Michalik</title>
+                <link rel="canonical" href="http://darthyody.github.io/portfolio/contact" />
+                <meta name="description" content="Joshua Michalik | Contact - Product Manager | Project Manager | Software Engineer" />
         </Helmet>
         <Animate to="1" from="0" attributeName="opacity">
           <Particles
