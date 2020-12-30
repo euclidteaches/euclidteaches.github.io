@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.36049c8d.chunk.css",
+    "main.js": "/static/js/main.7419ce3c.chunk.js",
+    "main.js.map": "/static/js/main.7419ce3c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f180add5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f180add5.js.map",
+    "static/css/2.d2ca2446.chunk.css": "/static/css/2.d2ca2446.chunk.css",
+    "static/js/2.b8b8e609.chunk.js": "/static/js/2.b8b8e609.chunk.js",
+    "static/js/2.b8b8e609.chunk.js.map": "/static/js/2.b8b8e609.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e7c1f4a7629691ea29fd670b8a3bd3ef.js": "/precache-manifest.e7c1f4a7629691ea29fd670b8a3bd3ef.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.d2ca2446.chunk.css.map": "/static/css/2.d2ca2446.chunk.css.map",
+    "static/css/main.36049c8d.chunk.css.map": "/static/css/main.36049c8d.chunk.css.map",
+    "static/media/cv1.png": "/static/media/cv1.54c8b12a.png",
+    "static/media/cv2.png": "/static/media/cv2.4c1cba5f.png",
+    "static/media/cv3.png": "/static/media/cv3.2da239b5.png",
+    "static/media/cv4.png": "/static/media/cv4.fdf35f0a.png",
+    "static/media/da-cert.png": "/static/media/da-cert.f58a6405.png",
+    "static/media/style.css": "/static/media/foad_logo.0a04cd22.jpg",
+    "static/media/git.svg": "/static/media/git.c31b5069.svg",
+    "static/media/joshua.png": "/static/media/joshua.2c189ee0.png",
+    "static/media/mct-badge.png": "/static/media/mct-badge.5c632bc5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f180add5.js",
+    "static/css/2.d2ca2446.chunk.css",
+    "static/js/2.b8b8e609.chunk.js",
+    "static/css/main.36049c8d.chunk.css",
+    "static/js/main.7419ce3c.chunk.js"
+  ]
+}
